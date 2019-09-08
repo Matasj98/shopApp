@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: space-between;
+
+    .option{
+        margin: 0 10px;
+        text-decoration: none;
+        color:black;
+    }
+}
